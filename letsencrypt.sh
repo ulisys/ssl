@@ -1,0 +1,1 @@
+﻿./letsencrypt-auto certonly --webroot -w /home/ulises/public_html -d www.ulisys.com.ar -d ulisys.com.ar -w /home/yoquese/public_html -d www.yoquese.com.ar -d yoquese.com.ar
